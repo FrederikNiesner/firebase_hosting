@@ -1,1 +1,1 @@
-# firestbase_hosting
+# firebase_hosting
